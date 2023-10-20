@@ -1,0 +1,30 @@
+.input-group{
+    margin-left: 1%;
+    width: 100%;
+    margin-bottom: 1%;
+    color:rgb(85, 174, 194)
+    
+}
+.card-header{
+    font-weight: bold;
+    color:rgb(85, 174, 194)
+}
+.card{
+    margin: auto;
+    margin-top: 15%;
+    width: 50%;
+    
+
+}
+.input-group-text{
+    color:rgb(85, 174, 194)
+}
+.u-login{
+    font-weight: bold;
+    border: solid rgb(85, 174, 194);
+    border-radius: 11%;
+    color: rgb(85, 174, 194);
+}
+.btn{
+    background-color:rgb(85, 174, 194);
+}
